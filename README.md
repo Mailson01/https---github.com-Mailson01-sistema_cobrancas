@@ -4,6 +4,8 @@
 
 Sistema web para cadastrar, organizar e acompanhar cobranças, clientes e pagamentos. O projeto foi pensado para facilitar o controle financeiro e reduzir o acompanhamento manual de valores em aberto.
 
+> **Status:** este sistema está em desenvolvimento. Algumas funcionalidades podem estar incompletas ou sofrer alterações.
+
 ## Funcionalidades
 
 - Cadastro e edição de clientes;
